@@ -1,4 +1,4 @@
-# Stock Market Kafka Real Time Data Engineering Project
+# KafkaStreamIQ: Real-Time Stock Market Data Pipeline
 
 ## Introduction 
 In this project, we have executed an End-To-End Data Engineering Project on Real-Time Stock Market Data using Kafka.
